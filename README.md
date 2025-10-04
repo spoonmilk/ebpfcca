@@ -1,5 +1,7 @@
 # eBPF CCA
 
+Read the paper [here](https://github.com/ebpfcca/ebpfcca/blob/main/ebpfcca.pdf)
+
 Evaluating eBPF as a Platform for Congestion Control Algorithm Implementation.
 
 Required packages:
